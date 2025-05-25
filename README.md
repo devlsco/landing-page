@@ -205,7 +205,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/devlsco/social-media-pannel/issues)
+- **Issues**: [GitHub Issues](https://github.com/devlsco/landing-page/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/devlsco/landing-page/discussions)
 - **Email**: contact@lsco.dev
 
