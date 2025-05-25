@@ -2,7 +2,10 @@
 
 A modern, interactive personal brand landing page built with Next.js, featuring dynamic particle animations, mouse-following effects, and sleek social media integration.
 
-![zSimonn Landing Page](https://img.shields.io/badge/Next.js-14+-black?style=for-the-badge&logo=next.js)
+## **Preview**
+![Preview](https://i.imgur.com/EYJM2Jz.png)
+
+![Landing Page](https://img.shields.io/badge/Next.js-14+-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-100%25-blue?style=for-the-badge&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Latest-38B2AC?style=for-the-badge&logo=tailwind-css)
 
