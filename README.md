@@ -44,7 +44,7 @@ A modern, interactive personal brand landing page built with Next.js, featuring 
 
    - Place your profile image as `public/logo.png`
    - Recommended size: 192x192px or higher
-   - Format: PNG with *transparent background (optional)
+   - Format: PNG with \*transparent background (optional)
 
 4. **Run the development server**
 
